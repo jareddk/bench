@@ -1,3 +1,1 @@
-## What it does
-
-Bench is a lightweight framework for managing experiments.
+Bench is a lightweight framework for managing machine learning experiments.
